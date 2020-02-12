@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b47913ac-86ab-4b4c-806f-2e72942a9b18" name="Default Changelist" comment="" />
+    <list default="true" id="b47913ac-86ab-4b4c-806f-2e72942a9b18" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Amazon.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Amazon.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/George.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/George.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Yahoo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Yahoo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/bloomandwild.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/bloomandwild.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/Amazon.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/example/Amazon.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/George.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/example/George.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/Yahoo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/example/Yahoo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/bloomandwild.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/example/bloomandwild.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,6 +24,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
@@ -29,6 +43,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test/java/BrowserDrivers" />
   </component>
   <component name="RecentsManager">
@@ -36,7 +51,7 @@
       <recent name="C:\Users\khush\Register1\src\test\java\BrowserDrivers" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.Amazon">
+  <component name="RunManager" selected="JUnit.bloomandwild.userShouldBeAbleToRegisterSuccessfully">
     <configuration name="Amazon" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Register1" />
       <extension name="coverage">
@@ -48,22 +63,6 @@
       <option name="PACKAGE_NAME" value="org.example" />
       <option name="MAIN_CLASS_NAME" value="org.example.Amazon" />
       <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Amazon.userShouldBeAbleToRegisterSuccessfully" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Register1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.example.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="org.example" />
-      <option name="MAIN_CLASS_NAME" value="org.example.Amazon" />
-      <option name="METHOD_NAME" value="userShouldBeAbleToRegisterSuccessfully" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -98,7 +97,23 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="bloomandwild" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Yahoo.userShouldBeAbleToRegisterSuccessfully" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Register1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example" />
+      <option name="MAIN_CLASS_NAME" value="org.example.Yahoo" />
+      <option name="METHOD_NAME" value="userShouldBeAbleToRegisterSuccessfully" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="bloomandwild.userShouldBeAbleToRegisterSuccessfully" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Register1" />
       <extension name="coverage">
         <pattern>
@@ -108,18 +123,19 @@
       </extension>
       <option name="PACKAGE_NAME" value="org.example" />
       <option name="MAIN_CLASS_NAME" value="org.example.bloomandwild" />
-      <option name="TEST_OBJECT" value="class" />
+      <option name="METHOD_NAME" value="userShouldBeAbleToRegisterSuccessfully" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.bloomandwild.userShouldBeAbleToRegisterSuccessfully" />
         <item itemvalue="JUnit.Amazon" />
-        <item itemvalue="JUnit.bloomandwild" />
-        <item itemvalue="JUnit.Amazon.userShouldBeAbleToRegisterSuccessfully" />
         <item itemvalue="JUnit.Yahoo" />
         <item itemvalue="JUnit.George" />
+        <item itemvalue="JUnit.Yahoo.userShouldBeAbleToRegisterSuccessfully" />
       </list>
     </recent_temporary>
   </component>
@@ -149,37 +165,53 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state x="626" y="210" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1581461377464">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="626" y="210" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1581461377464" />
+    <state x="100" y="100" width="1717" height="840" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1581524320424">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="100" y="100" width="1717" height="840" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1581524320424" />
+    <state x="719" y="160" key="#com.intellij.ide.util.MemberChooser" timestamp="1581514465581">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="719" y="160" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1581514465581" />
     <state x="626" y="199" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1580906459053">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="626" y="199" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1580906459053" />
-    <state width="1845" height="266" key="GridCell.Tab.0.bottom" timestamp="1581031216214">
+    <state width="1845" height="266" key="GridCell.Tab.0.bottom" timestamp="1581525777924">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1845" height="266" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1581031216214" />
-    <state width="1845" height="266" key="GridCell.Tab.0.center" timestamp="1581031216214">
+    <state width="1845" height="266" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1581525777924" />
+    <state width="1845" height="266" key="GridCell.Tab.0.center" timestamp="1581525777924">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1845" height="266" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1581031216214" />
-    <state width="1845" height="266" key="GridCell.Tab.0.left" timestamp="1581031216214">
+    <state width="1845" height="266" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1581525777924" />
+    <state width="1845" height="266" key="GridCell.Tab.0.left" timestamp="1581525777924">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1845" height="266" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1581031216214" />
-    <state width="1845" height="266" key="GridCell.Tab.0.right" timestamp="1581031216214">
+    <state width="1845" height="266" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1581525777924" />
+    <state width="1845" height="266" key="GridCell.Tab.0.right" timestamp="1581525777924">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1845" height="266" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1581031216214" />
+    <state width="1845" height="266" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1581525777924" />
     <state x="376" y="85" key="Maven.ArtifactSearchDialog" timestamp="1580905939121">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="376" y="85" key="Maven.ArtifactSearchDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1580905939121" />
-    <state x="569" y="292" key="com.intellij.ide.util.TipDialog" timestamp="1581031138096">
+    <state x="569" y="292" key="com.intellij.ide.util.TipDialog" timestamp="1581444263432">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="569" y="292" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1581031138096" />
+    <state x="569" y="292" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1581444263432" />
     <state x="641" y="55" key="refactoring.ChangeSignatureDialog" timestamp="1580906485544">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="641" y="55" key="refactoring.ChangeSignatureDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1580906485544" />
+    <state x="530" y="239" key="run.anything.popup" timestamp="1581510711504">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="530" y="239" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1581510711504" />
   </component>
 </project>
